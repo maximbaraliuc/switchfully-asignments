@@ -8,7 +8,7 @@
   - [x] Interneting is Hard - 04. Hello, CSS
   - [x] Interneting is Hard - 05. The Box Model
   - [x] Interneting is Hard - 06. CSS Selectors
-  - [ ] Interneting is Hard - 07. Floats
+  - [x] Interneting is Hard - 07. Floats
   - [ ] Interneting is Hard - 08. Flexbox
   - [ ] Interneting is Hard - 10. Responsive Design
   - [ ] Interneting is Hard - 12. Semantic HTML
@@ -17,6 +17,6 @@
   <!-- - [ ] Interneting is Hard - 11. Responsive Images -->
   <!-- - [ ] Interneting is Hard - 14. Web -->
 - [ ] HTML5 & CSS3 Project
-- [ ] Java Introduction Course
+- [x] Java Introduction Course - [sololearn profile](https://www.sololearn.com/en/profile/2077458)
 - [ ] SQL Introduction Course
  
