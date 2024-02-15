@@ -3,8 +3,8 @@
 - [x] Git Crash Course
 - [ ] HTML5 & CSS3 Course
   - [x] Interneting is Hard - 01. Introduction
-  - [ ] Interneting is Hard - 02. Basic Web Pages
-  - [ ] Interneting is Hard - 03. Links and Images
+  - [x] Interneting is Hard - 02. Basic Web Pages
+  - [x] Interneting is Hard - 03. Links and Images
   - [ ] Interneting is Hard - 04. Hello, CSS
   - [ ] Interneting is Hard - 05. The Box Model
   - [ ] Interneting is Hard - 06. CSS Selectors
