@@ -6,7 +6,7 @@
   - [x] Interneting is Hard - 02. Basic Web Pages
   - [x] Interneting is Hard - 03. Links and Images
   - [x] Interneting is Hard - 04. Hello, CSS
-  - [ ] Interneting is Hard - 05. The Box Model
+  - [x] Interneting is Hard - 05. The Box Model
   - [ ] Interneting is Hard - 06. CSS Selectors
   - [ ] Interneting is Hard - 07. Floats
   - [ ] Interneting is Hard - 08. Flexbox
@@ -20,7 +20,3 @@
 - [ ] Java Introduction Course
 - [ ] SQL Introduction Course
  
-
-## Git
-
-## Interneting is Hard
