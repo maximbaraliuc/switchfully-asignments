@@ -7,7 +7,7 @@
   - [x] Interneting is Hard - 03. Links and Images
   - [x] Interneting is Hard - 04. Hello, CSS
   - [x] Interneting is Hard - 05. The Box Model
-  - [ ] Interneting is Hard - 06. CSS Selectors
+  - [x] Interneting is Hard - 06. CSS Selectors
   - [ ] Interneting is Hard - 07. Floats
   - [ ] Interneting is Hard - 08. Flexbox
   - [ ] Interneting is Hard - 10. Responsive Design
