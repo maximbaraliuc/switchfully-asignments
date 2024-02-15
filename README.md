@@ -9,7 +9,7 @@
   - [x] Interneting is Hard - 05. The Box Model
   - [x] Interneting is Hard - 06. CSS Selectors
   - [x] Interneting is Hard - 07. Floats
-  - [ ] Interneting is Hard - 08. Flexbox
+  - [x] Interneting is Hard - 08. Flexbox
   - [ ] Interneting is Hard - 10. Responsive Design
   - [ ] Interneting is Hard - 12. Semantic HTML
   - [ ] Interneting is Hard - 13. Forms
