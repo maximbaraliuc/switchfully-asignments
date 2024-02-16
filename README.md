@@ -12,7 +12,7 @@
   - [x] Interneting is Hard - 08. Flexbox
   - [x] Interneting is Hard - 10. Responsive Design
   - [x] Interneting is Hard - 12. Semantic HTML
-  - [ ] Interneting is Hard - 13. Forms
+  - [x] Interneting is Hard - 13. Forms
   <!-- - [ ] Interneting is Hard - 09. Advanced Positioning -->
   <!-- - [ ] Interneting is Hard - 11. Responsive Images -->
   <!-- - [ ] Interneting is Hard - 14. Web -->
