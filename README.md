@@ -1,7 +1,7 @@
 # Switchfully Assignments
 
 - [x] Git Crash Course
-- [ ] HTML5 & CSS3 Course
+- [x] HTML5 & CSS3 Course
   - [x] Interneting is Hard - 01. Introduction
   - [x] Interneting is Hard - 02. Basic Web Pages
   - [x] Interneting is Hard - 03. Links and Images
@@ -16,7 +16,7 @@
   <!-- - [ ] Interneting is Hard - 09. Advanced Positioning -->
   <!-- - [ ] Interneting is Hard - 11. Responsive Images -->
   <!-- - [ ] Interneting is Hard - 14. Web -->
-- [ ] HTML5 & CSS3 Project
-- [x] Java Introduction Course - [sololearn profile](https://www.sololearn.com/en/profile/2077458)
+- [x] HTML5 & CSS3 Project - [**profile on github pages**](https://maximbaraliuc.github.io/)
+- [x] Java Introduction Course - [**sololearn profile**](https://www.sololearn.com/en/profile/2077458)
 - [ ] SQL Introduction Course
  
